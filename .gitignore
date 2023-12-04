@@ -1,4 +1,5 @@
 #folders
 myenv
+myenv/Lib
 migrations
 __pycache__
